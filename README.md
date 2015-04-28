@@ -6,6 +6,7 @@ as a starter
 
 I am personally not a coder, but looking to acquire a basic understanding for handling ethereum.
 I have experience and or interest in travelbusiness, webshops, start-ups, information architecture, philosophy, politics, ethics, magic and sacred geometry.
+Codewise i can just hack a bit of html, css and php (and gwbasic and EASYamos if anybody remembers that;-)
 
 Anyone interested feel welcome to PM
 
